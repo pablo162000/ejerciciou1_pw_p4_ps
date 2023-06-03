@@ -1,0 +1,36 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.opciones {
+    display: grid;
+    align-items: center;
+    
+}
+
+img {
+    margin-bottom: 5px;
+    margin-left: 22px;
+}
+
+label {
+    margin: auto;
+    
+}
+.labels{
+    display: grid;
+    border: dashed black;
+    border-radius: 10px;
+}
+button {
+    margin-bottom: 10px;
+}
+
+button:hover {
+
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 0, 115);
+
+}
